@@ -1,0 +1,5 @@
+#!/usr/bin/bash
+
+echo "this is the simple script"
+echo "1st commit - initial commited"
+
